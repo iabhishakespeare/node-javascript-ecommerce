@@ -2,12 +2,6 @@
 # Amazona ECommerce Website
 ![amazona](/frontend/images/jsamazona.jpg)
 
-## Demo Website
-
-- 👉 Heroku : [https://jsamazona.herokuapp.com](https://jsamazona.herokuapp.com)
-- 👉 AWS : [https://jsamazona.webacademy.pro](https://jsamazona.webacademy.pro)
-
-
 ## You Will Learn
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
